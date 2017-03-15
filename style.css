@@ -1,5 +1,5 @@
 /*
-Theme Name: MyWordpress  theme
+Theme Name: My-theme
 Author:Prashant Bhat
 Version:1.0 */
 
@@ -82,5 +82,5 @@ site-header nav ul li.current-menu-item a:link,
 }
 /*page layout */
 article.page h2{
-font-size: 300%; 
+font-size: 300%;
 }
