@@ -84,3 +84,27 @@ site-header nav ul li.current-menu-item a:link,
 article.page h2{
 font-size: 300%;
 }
+div.title-column{
+  width:30%;
+  float:left;
+}
+div.text-column{
+  width: 70%;
+  float: right;
+}
+/*info-box*/
+div.info-box{
+  float: right;
+  width: 30%;
+  margin: 0 0 30px 30px;
+  padding: 20px;
+  background-color: #EEE;
+
+}
+div.info-box h4{
+  margin-bottom: 6px;
+
+}
+div.info-box p{
+  font-size: 85%;
+}
